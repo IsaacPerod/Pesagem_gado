@@ -1,0 +1,13 @@
+train: C:\Users\isaac\Downloads\yolov8-silva-main\yolov8-silva-main\datasets\train
+val: C:\Users\isaac\Downloads\yolov8-silva-main\yolov8-silva-main\datasets\test
+test: C:\Users\isaac\Downloads\yolov8-silva-main\yolov8-silva-main\datasets\test
+
+nc: 2
+names: ['bolinha', 'princesa']
+
+roboflow:
+  workspace: isaac-pedroso-rodrigues-7pppy
+  project: animais-j4tty
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/isaac-pedroso-rodrigues-7pppy/animais-j4tty/dataset/1
